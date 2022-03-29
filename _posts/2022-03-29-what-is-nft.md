@@ -2,7 +2,7 @@
 layout: post
 title: "What is an NFT and why invest?"
 featured: true
-author: Shashi
+author: Robert
 tags: [nft, what is nft, nfts]
 image: "images/posts/what is non fungible tocken-min.jpg"
 ---
