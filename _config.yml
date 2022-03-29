@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Midan
+title: NFT Buzz Today
 email: contact@nftbuzztoday.com
-description: Clean and Fast Jekyll Blog Theme
+description: Get Latest Updates on NFT & Cryptocurrency daily
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "http://blog.nftbuzztoday.com" # The base hostname & protocol for your site
 github_username: nftbuzztoday
@@ -47,11 +47,10 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
-    name: Ahmad Ajmi
-    bio: Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
+  Robert:
+    name: Robert Alexandra
+    bio: Author of NFT Buzz today, He is expert in understanding NFT markets and have deep knowledge on Cryptocurrency
     gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email: info@aspirethemes.com
-    website: http://aspirethemes.com
-    github_username: ahmadajmi
-    twitter_username: ahmadajmi
+    email: contact@nftbuzztoday.com
+    website: http://nftbuzztoday.com
+    twitter_username: nftbuzztoday
