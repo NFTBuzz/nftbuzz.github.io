@@ -26,6 +26,7 @@ layout: default
         {% endif %}
 
         <header class="text-center post__header">
+          
           <h2 class="post__title" itemprop="name headline">{{ page.title }}</h2>
           <time
             class="post__date"
@@ -33,8 +34,7 @@ layout: default
             itemprop="datePublished"
             >{{ page.date | date: "%b %-d, %Y" }}</time
           >
-        </header>
-        <div class="post-categories">
+          <div class="post-categories">
           {% if post %}
             {% assign categories = post.categories %}
           {% else %}
@@ -45,6 +45,8 @@ layout: default
           {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
         </div>
+        </header>
+        
 
         <div class="post-content" itemprop="articleBody">{{ content }}</div>
 
