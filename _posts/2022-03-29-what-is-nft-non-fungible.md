@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "NFT: what is a non-fungible token and what is it for?"
-featured: true
 author: Robert
 tags: [nft, what is nft, nfts]
 image: "/images/posts/what-is-non-fungible-tocken.jpg"
