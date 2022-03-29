@@ -15,7 +15,7 @@ github_username: nftbuzztoday
 twitter_username: nftbuzztoday
 
 markdown: kramdown
-permalink: none
+permalink: /:categories/:title/
 paginate: 12
 sass:
   style: compressed
@@ -36,7 +36,7 @@ plugins: [jekyll-paginate]
 # Tags
 tag_page_dir: tag
 tag_page_layout: tag_page
-tag_permalink_style: pretty
+tag_permalink_style: none
 
 # Pages path
 defaults:
