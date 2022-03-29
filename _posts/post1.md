@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What is an NFT and why invest?
+title: "What is an NFT and why invest?"
 featured: true
 author: ahmad
 tags: [python, ruby, java]
-image: "/images/posts/image.jpeg"
+image: "/images/posts/preview.jpg"
 ---
 
 The following statements do not constitute investment advice or any other advice on financial services, financial instruments, financial products or digital assets. They are intended to provide general information. The following statements do not constitute an offer to enter into a contract to buy or sell financial instruments and financial products or an invitation to submit such an offer and to buy or sell a digital asset. Cryptocurrencies are subject to strong fluctuations in value. A decline in value or total loss is possible at any time. Loss of access to data and passwords can also lead to complete loss.
