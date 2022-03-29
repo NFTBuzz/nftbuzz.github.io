@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+
+  <h1>nft</h1>
+	{% for nft in site.categories.nft %}
+		<li>
+			<a href="">{{nft.title}}</a>
+		</li>
+	{% endfor %}
+</ul>			
+
+  <div class="row row--full">
+    {% include pagination.html %}
+  </div>
+
+</div>
