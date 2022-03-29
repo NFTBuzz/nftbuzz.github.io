@@ -6,8 +6,12 @@ layout: default
 
   <div class="row">
     <div class="post-list">
+	    {% for nft in site.categories.nft %}
       {% for post in paginator.posts %}
         {% include post-card.html %}
+	    <li>
+			<a href="">{{nft.title}}</a>
+		</li>
       {% endfor %}
     </div>
   </div>
