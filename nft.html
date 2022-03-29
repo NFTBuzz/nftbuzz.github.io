@@ -8,6 +8,9 @@ layout: default
     <div class="post-list">
       {% for nft in site.categories.nft %}
         {% include post-card.html %}
+            <li>
+            <a href="">{{nft.title}}</a>
+            </li>
       {% endfor %}
     </div>
   </div>
