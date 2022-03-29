@@ -54,3 +54,5 @@ authors:
     email: contact@nftbuzztoday.com
     website: http://nftbuzztoday.com
     twitter_username: nftbuzztoday
+    
+    gems: - jekyll-sitemap
