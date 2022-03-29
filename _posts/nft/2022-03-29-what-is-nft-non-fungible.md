@@ -4,6 +4,7 @@ title: "NFT: what is a non-fungible token and what is it for?"
 author: Robert
 tags: [nft, what is nft, nfts]
 image: "/images/posts/what-is-non-fungible-tocken.jpg"
+category: nft
 ---
 
 NFT is the new buzzword. Popularized in 2021 with cryptocurrency enthusiasts, non-fungible tokens are about to enter other sectors, including video games. We tell you everything you need to know about this controversial technology.
