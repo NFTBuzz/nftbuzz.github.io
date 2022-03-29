@@ -55,5 +55,5 @@ authors:
     website: http://nftbuzztoday.com
     twitter_username: nftbuzztoday
     
-    gems: 
-      - jekyll-sitemap
+gems: 
+    - jekyll-sitemap
