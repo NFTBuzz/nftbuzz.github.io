@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Are CryptoPunks NFTs really NFTs?"
-featured: true
 author: Robert
-tags: [cryptoPunks, nfts, NFT]
+tags: [cryptoPunks, nft]
 image: "/images/posts/5349705.jpg"
 ---
 
