@@ -2,7 +2,7 @@
 layout: post
 title: "Passive Income from NFTs: How to Make Passive Income with NFTs?"
 author: Robert
-image: "/images/posts/passive-income.jpg"
+image: "/images/posts/passive-income-nft.jpeg"
 category: nft
 ---
 
