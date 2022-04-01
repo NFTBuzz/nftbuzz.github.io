@@ -3,7 +3,7 @@ layout: post
 title: "How to Sell NFT Art | A Step-by-Step Guide to Selling NFTs"
 author: Robert
 image: "/images/posts/sell-nft.jpg"
-category: crypto, nft
+category: nft
 ---
 
 NFTs are without a doubt one of the most popular subjects on the internet right now.
